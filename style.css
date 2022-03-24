@@ -1,0 +1,22 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+label {
+    margin: .4rem 0;
+}
+
+span {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    display: none;
+}
+.custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+}
